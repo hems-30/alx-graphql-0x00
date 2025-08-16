@@ -1,9 +1,16 @@
-# Character Queries
+# ALX Project: 0x00 - GraphQL Setup
 
-This folder contains GraphQL queries to fetch character details by ID.
+This repository contains my setup for the ALX GraphQL project.
 
-Files:
-- `character-id-1.graphql`: Query for character with ID 1
-- `character-id-2.graphql`: Query for character with ID 2
-- `character-id-3.graphql`: Query for character with ID 3
-- `character-id-4.graphql`: Query for character with ID 4
+## 📌 Project Overview
+The goal of this project is to:
+- Set up a GraphQL client in JavaScript/TypeScript.
+- Practice querying a GraphQL API.
+- Learn how to fetch and display data using GraphQL queries.
+
+## 🚀 GraphQL API
+For this project, I will be using the **Rick and Morty GraphQL API**:
+
+👉 https://rickandmortyapi.com/graphql
+
+This free API allows us to query characters, locations, and episodes from the Rick and Morty universe.
